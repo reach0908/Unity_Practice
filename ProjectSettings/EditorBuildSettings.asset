@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/5_XR_EDU/Scenes/StartScene.unity
+    guid: 71d582d30e0058449879f43e78f9fa9e
+  - enabled: 0
+    path: Assets/5_XR_EDU/Scenes/Shooting_01.unity
+    guid: cf9a9c233c844ec4797e14a24416ada0
+  - enabled: 0
+    path: Assets/5_XR_EDU/Scenes/Shooting_02.unity
+    guid: d6f046b89f999c648ac2286095bde1f0
+  - enabled: 0
+    path: Assets/5_XR_EDU/Scenes/AR_01.unity
+    guid: a1f86545c762cdf48a969b443007e18b
+  - enabled: 0
+    path: Assets/5_XR_EDU/Scenes/Shooting_02_ar.unity
+    guid: 120cac09ef294934e947813a723c4d65
+  - enabled: 0
+    path: Assets/5_XR_EDU/Scenes/Shooting_02_ar2.unity
+    guid: 9f992ed0f53562c4bacbd139778810c3
+  - enabled: 1
+    path: Assets/5_XR_EDU/Scenes/AR_02.unity
+    guid: 2bc5878108b83a24ea7f1309d81b0811
+  m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 380762b5114af0b4bae726f1e38828db,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3c0765e2cac5f7547a6e2b48f553064c,
+      type: 2}
