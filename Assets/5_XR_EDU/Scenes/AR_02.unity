@@ -170,7 +170,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_TargetTr: {fileID: 413074436}
-  m_RightOffset: 0.32
+  m_RightOffset: 0.35
   m_UpOffset: 0.36
 --- !u!136 &19984849
 CapsuleCollider:
